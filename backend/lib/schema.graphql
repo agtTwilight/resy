@@ -1,0 +1,26 @@
+schema {
+	query: Query
+	mutation: Mutation
+}
+
+type Restaurant{}
+
+type Table{}
+
+type OperatingHours{}
+
+type UpcomingReservations{}
+
+type PastReservations{}
+
+type UserConnection{}
+
+type User{}
+
+type ReservationConnection{}
+
+type Reservation{}
+
+type Query {}
+
+type Mutation{}
